@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zip_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\zip_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cbz_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\cbz_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_up_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\up_folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\up_folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\xml_cv_setting_fragment.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\xml\\cv_setting_fragment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_up_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\up_folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\up_folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cbr_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\cbr_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zip_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\zip_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cbz_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\cbz_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rar_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\rar_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cbz_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\cbz_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cbr_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\cbr_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rar_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\rar_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bookmark.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bookmark.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zip_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\zip_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rar_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\rar_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cbz_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\cbz_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookmark.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\layout_cv_view_activity.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\layout\\cv_view_activity.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bookmark.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zip_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\zip_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xhdpi\\folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_decelerate_interpolator.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\decelerate_interpolator.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\xml_cv_setting_main.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\xml\\cv_setting_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cbr_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\cbr_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-xxhdpi\\folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cbr_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-mdpi\\cbr_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\layout_cv_main_activity.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\layout\\cv_main_activity.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\xml_cv_setting_operation.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\xml\\cv_setting_operation.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_accelerate_interpolator.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\accelerate_interpolator.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rar_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\rar_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\layout_cv_search_dialog.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\layout\\cv_search_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_down.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder_icon.png.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\drawable-hdpi\\folder_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\layout_cv_bookmark_dialog.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\layout\\cv_bookmark_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\MangaYomi\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_down.xml.flat",
+        "source": "C:\\AndroidStudioProject\\MangaYomi\\app\\src\\main\\res\\anim\\slide_in_down.xml"
+    }
+]

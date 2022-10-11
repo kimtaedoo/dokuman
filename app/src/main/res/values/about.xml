@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="aboutText">
+&lt;p&gt;Thank you for using "DOKUMAN - Simple Comic Viewer". &lt;br /&gt;
+Unauthorized modifications are not permitted. &lt;br /&gt;
+For any damages that occur by using this application,
+ and the author is not responsible for this application. &lt;/p&gt;
+&lt;p&gt;Copyright &lt;b&gt;KimTaeDoo&lt;/b&gt; Since 2013&lt;/p&gt;
+&lt;p&gt;
+G-mail : &lt;a href="mailto:kimtaedoo.develop@gmail.com"&gt; kimtaedoo.develop@gmail.com &lt;/a&gt;&lt;br /&gt;
+Twitter : &lt;a href="https://twitter.com/taedookim"&gt; @taedookim &lt;/a&gt;&lt;br /&gt;
+Facebook : &lt;a href="https://www.facebook.com/yasutokim"&gt; yasutokim &lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;
+</string>
+    
+</resources>

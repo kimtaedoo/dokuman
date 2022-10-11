@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DOKUMAN - Simple Comic Viewer</string>
+    <string name="resume">ResumeLastBook</string>
+    <string name="bookMarks">BookMarks</string>
+    <string name="fileSearch">SearchFiles</string>
+    <string name="setUp">SetUp</string>
+    <string name="upDir">UpDir</string>
+    <string name="close">Close</string>
+    <string name="delBookmark">Delete All</string>
+    <string name="searchHint">Input searching keyword</string>
+    
+    <string name="msg_up_directory">Up to Directory</string>
+    <string name="msg_zip_file">Zip File</string>
+    <string name="msg_cbz_file">CBZ File</string>
+    <string name="msg_rar_file">RAR File</string>
+    <string name="msg_cbr_file">CBR File</string>
+    <string name="msg_directory">Directory</string>
+    <string name="msg_slide_start">Slide show START!</string>
+    <string name="msg_slide_stop">Slide show STOP!</string>
+    <string name="msg_put_off">Slide show START. \n Put of to Slide STOP!</string>
+    <string name="msg_change_file">Change the reading file : %s</string>
+    <string name="msg_no_resume">Can\'t open resume file.</string>
+    <string name="msg_open_resume">Open Resume file.</string>
+    <string name="msg_del_allmark">Bookmark delete complete.</string>
+    <string name="msg_del_bookmark">Bookmark delete : %s</string>
+    <string name="msg_search_file">Please input Keyword and Enter. \n Searching Files in this Directory.</string>
+    <string name="msg_do_bookmarking">Bookmarking Now.</string>
+    
+    <string name="intent_open_filename">FILE_NAME</string>
+    <string name="intent_open_dirname">DIR_NAME</string>
+    <string name="intent_file_lists">FILE_LISTS</string>
+    <string name="intent_file_position">FILE_POSITION</string>
+    <string name="intent_page_position">PAGE_POSITION</string>
+    
+    <string name="err_msg_file_failed">File Input ERROR! Please Checking the file.</string>
+    <string name="err_msg_root_dir">This is ROOT Directory.</string>
+    <string name="err_msg_not_image">No image files in File.</string>
+    <string name="err_msg_del_bookmark">Bookmark delete Error!.</string>
+    <string name="err_msg_no_resume">You don\'t have Resume data.</string>
+    
+    <string name="pre_title_defdir">Default directory path</string>
+    <string name="pre_sub_defdir">Tap here setting a default to path that now open.</string>
+    <string name="pre_msg_defpath">Default Path is chainging :</string>
+    <string name="pre_title_automark">Use Auto Bookmarks</string>
+    <string name="pre_sub_automark">Bookmark data using automaticaly when open &amp; close files.</string>
+    <string name="pre_title_slidespeed">Slide show speed setting</string>
+    <string name="pre_sub_slidespeed">Input slide show interval time (msec).</string>
+    <string name="pre_title_main_menu">Main Settings</string>
+    <string name="pre_sub_main_menu">Main setting menu to this apps.</string>
+    <string name="pre_title_opesett">Operation Setting</string>
+    <string name="pre_sub_opesett">Tap, Flip, etc… Operation Setting</string>
+    <string name="pre_title_tapchange">Which tap to next page?</string>
+    <string name="pre_text_right">Right</string>
+    <string name="pre_text_left">Left</string>
+    <string name="pre_sub_right">Tap right to Next page.</string>
+    <string name="pre_sub_left">Tap left to Next page.</string>
+    <string name="pre_title_doubletap">Use double tap Slide show</string>
+    <string name="pre_sub_doubletap">If check this, double tap to slide show.</string>
+    <string name="pre_title_howto">How to use this App</string>
+    <string name="pre_title_about">About this App</string>
+    <!-- 20130601 add -->
+    <string name="pre_title_spread">Spread View</string>
+    <string name="pre_sub_spread">Use the Spread View in LANDSCAPE mode</string>
+    <string name="pre_title_direction">Spread Direction</string>
+    <string name="pre_sub_direction">If you Use the Spread View, Viewing image is "left to right"? or "right to left"?</string>
+    <string name="pre_value_ltor">Left to Right</string>
+    <string name="pre_value_rtol">Right to Left</string>
+    <string name="pre_sub_ltor">First page on Left. Next page on Right.</string>
+    <string name="pre_sub_rtol">First page on Right. Next page on Left.</string>
+    
+    <string name="pre_key_defpath">defaultPath</string>
+    <string name="pre_key_automark">autoBookmark</string>
+	<string name="pre_key_slidetime">slideTime</string>
+	<string name="pre_key_nextpage">nextPage</string>
+    <string name="pre_key_doubletap">enableDoubletap</string>
+    <string name="pre_key_resume">resumeBook</string>
+    <string name="pre_key_howto">howTo</string>
+    <string name="pre_key_about">about</string>
+    <!-- 20130601 add -->
+    <string name="pre_key_spread">spread</string>
+    <string name="pre_key_direction">direction</string>
+    
+    <string name="dialog_tag_page">markedPage</string>
+    <string name="dialog_tag_dir">markedDir</string>
+    <string name="dialog_tag_file">markedFile</string>
+    
+    <string name="dialog_title_filechange">Now File Chainging</string>
+    <string name="dialog_msg_filechange">Please, wait a moment…</string>
+    
+    <!-- 20140528 add -->
+    <string name="dialog_bookmarks_sub">Press and hold, you can delete the bookmark.</string>
+    <!-- 20140528 add -->
+    
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="integer" type="integer" name="default_slide_time">1500</item>
+    <item format="integer" type="integer" name="text_size_title">20</item>
+    <item format="integer" type="integer" name="text_size_sub">15</item>
+    <item format="integer" type="integer" name="text_size_bookmark">18</item>
+    
+</resources>

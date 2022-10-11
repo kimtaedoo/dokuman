@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="main_text_color">#444444</color>
+    <color name="sub_text_color">#dddddd</color>
+    <item format="integer" name="default_slide_time" type="integer">1500</item>
+    <item format="integer" name="text_size_bookmark" type="integer">18</item>
+    <item format="integer" name="text_size_sub" type="integer">15</item>
+    <item format="integer" name="text_size_title" type="integer">20</item>
+    <string name="aboutText">
+&lt;p>Thank you for using "DOKUMAN - Simple Comic Viewer". &lt;br />
+Unauthorized modifications are not permitted. &lt;br />
+For any damages that occur by using this application,
+ and the author is not responsible for this application. &lt;/p>
+&lt;p>Copyright &lt;b>KimTaeDoo&lt;/b> Since 2013&lt;/p>
+&lt;p>
+G-mail : &lt;a href="mailto:kimtaedoo.develop@gmail.com"> kimtaedoo.develop@gmail.com &lt;/a>&lt;br />
+Twitter : &lt;a href="https://twitter.com/taedookim"> @taedookim &lt;/a>&lt;br />
+Facebook : &lt;a href="https://www.facebook.com/yasutokim"> yasutokim &lt;/a>&lt;br />
+&lt;/p>
+</string>
+    <string name="app_name">DOKUMAN - Simple Comic Viewer</string>
+    <string name="bookMarks">BookMarks</string>
+    <string name="close">Close</string>
+    <string name="delBookmark">Delete All</string>
+    <string name="dialog_bookmarks_sub">Press and hold, you can delete the bookmark.</string>
+    <string name="dialog_msg_filechange">Please, wait a moment…</string>
+    <string name="dialog_tag_dir">markedDir</string>
+    <string name="dialog_tag_file">markedFile</string>
+    <string name="dialog_tag_page">markedPage</string>
+    <string name="dialog_title_filechange">Now File Chainging</string>
+    <string name="err_msg_del_bookmark">Bookmark delete Error!.</string>
+    <string name="err_msg_file_failed">File Input ERROR! Please Checking the file.</string>
+    <string name="err_msg_no_resume">You don\'t have Resume data.</string>
+    <string name="err_msg_not_image">No image files in File.</string>
+    <string name="err_msg_root_dir">This is ROOT Directory.</string>
+    <string name="fileSearch">SearchFiles</string>
+    <string name="howtoText">
+&lt;h1 text-align="center">How to Use app \'DOKUMAN\' &lt;/h1>
+
+&lt;h2 id="basic"> basic operation &lt;/h2>
+&lt;p>A description is the basic operation of this app. &lt;/p>
+&lt;p>When you start the application like Explorer screen is displayed. &lt;br />
+That can list CBZ and ZIP files and folders (&lt;font color="#AEB404">other files will be ignored all &lt;/ font>) so, please specify the files that you want to read. &lt;/p>
+&lt;p>When you open the file, the image will be displayed on the screen. &lt;br />
+Please try to &lt;font color="#ff6666">tap on the right(or the left) side&lt;/font> of the screen. You can proceed with turning the page image will change.&lt;br />
+You can change to your preference settings, when you tap either side of the screen, turning the page next or back. &lt;br />
+&lt;font color="#ff6666">The screen near the center double-tap, please &lt;/ font>. Page is turned over automatically by the slide show. If you want to exit the slide show, please tap once anywhere on the screen. &lt;br />
+Then, please &lt;font color="#ff6666">Flick toward the left (or right) from the center area and put on screen your finger(not leave the point)&lt;/ font>. You can turn the page continuously at a fast speed. It stops automatically when you release your finger. &lt;br />
+Also, from version 2.0, it was supported &lt;font color="#ff6666">spread display and zoomed in / out&lt;/font>. &lt;br />
+With that you put a check of menu &lt;font color="#ff6666">"Spread View"&lt;/ font>, when you display the landscape while browsing the file, it becomes display automatically Spread View. Spread display, it means that in turning a normal page, two pages moved. When you want to move only one page, if you flick to from right to left (or left to right) with 2 fingers, you can move to the left page to on the right (or to the right page on the left). &lt;br />
+For zoom in / out, in the operation of &lt;font color="#ff6666"> pinch in / pinch out&lt;/ font>. The zoom in / out during the thing to slide 1 finger, you can move freely view point of the image. In addition, by the fact that the one-tap anywhere on the screen, you will be able to return to normal size. (You can not leave the zoom in / out, turn the page. For one tap when you turn the page, please move it from the back the scale) &lt;br />
+Finally, &lt;font color="#ff6666">in 2 fingers to up(or down) Flick, please &lt;/ font>. You can move to the file of the next (or previous) in the same folder. As a result, without having to return to the file list all the way, you can move to (in most cases next or forward volume) file to continue with the next one. &lt;/p>
+
+&lt;h2 id="menu">Menu Button&lt;/h2>
+&lt;p>A description of the Menu Button. &lt;/p>
+&lt;p>Menu button is a description of the four buttons that are displayed in the Explorer screen below. These buttons have become &lt;font color="#2ECCFA">\'Last file read\', \'Bookmark\', \'Search\', \'Settings\' buttons and &lt;/ font> function from left to right. &lt;br />
+&lt;font color="#2ECCFA">\'Last file read\'&lt;/ font> is, has stored automatically the information of the file it was read last time, just tap a button, you were reading last time. &lt;br />
+&lt;font color="#2ECCFA">\'Bookmarks\'&lt;/ font> is, a list of bookmarks that are currently stored will be displayed in the dialog. You can open a given page of the file if you tap the bookmark you want to read from the list. In addition, by long tap(long press) to the list, you can delete the target bookmark. If you want to delete all bookmarks, please tap the button \'Delete all\' which is located at the bottom right. Upon deletion of bookmark, please take note does not such as to confirm the deletion. &lt;br />
+&lt;font color="#2ECCFA">\'Search\' &lt;/ font> displays a list narrowed down from the file name by entering a keyword. It does not distinguish between upper / lower case.&lt;br />
+Last &lt;font color="#2ECCFA">\'Settings\'&lt;/ font> in, you can be set for the various operations of the application. &lt;/p>
+&lt;p>The top of the explorer screen area displays &lt;font color="#AEB404"> the path to the folder where open currently &lt;/ font> on the left side, the top right corner there is a &lt;font color="#AEB404"> button to move to upper level folder&lt;/ font>. Button to move to the upper level folder, the top of the file list is displayed, but if the number of files are displayed in a single folder, the top of the list to go back all the way since it\'s cumbersome, Please use the button here. &lt;/p>
+
+&lt;h2 id="setting"> Settings &lt;/ h2>
+&lt;p>Then you will learn settings this app. &lt;/p>
+&lt;p>Setting item is &lt;font color="#2ECCFA">\'Main Settings\'&lt;/ font> and &lt;font color="#2ECCFA">\'Operation Settings\'&lt;/ font> can be divided. &lt;/p>
+&lt;p>&lt;font color="#2ECCFA">\'Main Settings\'&lt;/font> in the, &lt;font color="#00FF00">\'Default directory path\', \'Use Auto Bookmarks\' \'How to use this App\'&lt;/font> and &lt;font color="#00FF00">\'About this App\'&lt;/font>. &lt;br />
+&lt;font color="#00FF00">\'Default directory path\' &lt;/ font> is, by tapping an item,You can be set the default folder that is currently open in the Explorer screen. When you tap, If the folder you want to specify is different, please tap this item again to return to the Explorer screen once, open the folder given. &lt;br />
+&lt;font color="#00FF00">\'Use Auto Bookmarks\' &lt;/ font> is that you put a check in the case, open(or close) the file automatically read (or write) the bookmark information Your bookmarks. If you are removing the check, the first page is displayed whenever you open a file. If you want to bookmark the page specified in the unchecked, when you open the image page, long tap, please press and hold the screen near the center. You can message is displayed and you can add a bookmark.&lt;br />
+By checked &lt;font color="#00FF00">\'Spread View\'&lt;/ font> on , when you have a landscape screen display, you can take advantage of spread display. &lt;br />
+&lt;font color="#00FF00">\'Spread Direction\'&lt;/ font>, when spread display, which specifies the right to left, or left to right direction lining the image. Default has become a "right-to-left", in the case of the Japanese comic, but if you are part reverse, please adjust the direction in this setting. &lt;br />
+&lt;font color="#00FF00">\'How to use this App\' &lt;/ font> is this message. &lt;br />
+&lt;font color="#00FF00">\'About this App\'&lt;/font> You can see the right-related conventions and producer of information app. &lt;/p>
+&lt;p>&lt;font color="#2ECCFA">\'Operation Settings\'&lt;/ font>, You can set the items related to operations such as flick and tap. &lt;br />
+By switching the switch at the top, You can specify whether to &lt;font color="#00FF00"> proceed to the next page when you tap the right-left either side&lt;/ font> of screen. By tapping the other side of the displayed on the switch, you can return to the previous page. &lt;br />
+If you checked &lt;font color="#00FF00">\'Use double tap Slide show\'&lt;/ font> to , the slide show will start when you double-tap the screen. If you clear it, you will not be able to use the slide show. However, you can use regardless of the check of this item by Flick turning continuous page. &lt;br />
+&lt;font color="#00FF00">\'Slide show speed setting\'&lt;/ font> is , you can slide show function above to edit only when enabled. You can adjust the speed at which pages are switched in a slide show. Specified it will be milliseconds, page is switched every second if you enter \'1000\'. &lt;/p>
+</string>
+    <string name="intent_file_lists">FILE_LISTS</string>
+    <string name="intent_file_position">FILE_POSITION</string>
+    <string name="intent_open_dirname">DIR_NAME</string>
+    <string name="intent_open_filename">FILE_NAME</string>
+    <string name="intent_page_position">PAGE_POSITION</string>
+    <string name="msg_cbr_file">CBR File</string>
+    <string name="msg_cbz_file">CBZ File</string>
+    <string name="msg_change_file">Change the reading file : %s</string>
+    <string name="msg_del_allmark">Bookmark delete complete.</string>
+    <string name="msg_del_bookmark">Bookmark delete : %s</string>
+    <string name="msg_directory">Directory</string>
+    <string name="msg_do_bookmarking">Bookmarking Now.</string>
+    <string name="msg_no_resume">Can\'t open resume file.</string>
+    <string name="msg_open_resume">Open Resume file.</string>
+    <string name="msg_put_off">Slide show START. \n Put of to Slide STOP!</string>
+    <string name="msg_rar_file">RAR File</string>
+    <string name="msg_search_file">Please input Keyword and Enter. \n Searching Files in this Directory.</string>
+    <string name="msg_slide_start">Slide show START!</string>
+    <string name="msg_slide_stop">Slide show STOP!</string>
+    <string name="msg_up_directory">Up to Directory</string>
+    <string name="msg_zip_file">Zip File</string>
+    <string name="pre_key_about">about</string>
+    <string name="pre_key_automark">autoBookmark</string>
+    <string name="pre_key_defpath">defaultPath</string>
+    <string name="pre_key_direction">direction</string>
+    <string name="pre_key_doubletap">enableDoubletap</string>
+    <string name="pre_key_howto">howTo</string>
+    <string name="pre_key_nextpage">nextPage</string>
+    <string name="pre_key_resume">resumeBook</string>
+    <string name="pre_key_slidetime">slideTime</string>
+    <string name="pre_key_spread">spread</string>
+    <string name="pre_msg_defpath">Default Path is chainging :</string>
+    <string name="pre_sub_automark">Bookmark data using automaticaly when open &amp; close files.</string>
+    <string name="pre_sub_defdir">Tap here setting a default to path that now open.</string>
+    <string name="pre_sub_direction">If you Use the Spread View, Viewing image is "left to right"? or "right to left"?</string>
+    <string name="pre_sub_doubletap">If check this, double tap to slide show.</string>
+    <string name="pre_sub_left">Tap left to Next page.</string>
+    <string name="pre_sub_ltor">First page on Left. Next page on Right.</string>
+    <string name="pre_sub_main_menu">Main setting menu to this apps.</string>
+    <string name="pre_sub_opesett">Tap, Flip, etc… Operation Setting</string>
+    <string name="pre_sub_right">Tap right to Next page.</string>
+    <string name="pre_sub_rtol">First page on Right. Next page on Left.</string>
+    <string name="pre_sub_slidespeed">Input slide show interval time (msec).</string>
+    <string name="pre_sub_spread">Use the Spread View in LANDSCAPE mode</string>
+    <string name="pre_text_left">Left</string>
+    <string name="pre_text_right">Right</string>
+    <string name="pre_title_about">About this App</string>
+    <string name="pre_title_automark">Use Auto Bookmarks</string>
+    <string name="pre_title_defdir">Default directory path</string>
+    <string name="pre_title_direction">Spread Direction</string>
+    <string name="pre_title_doubletap">Use double tap Slide show</string>
+    <string name="pre_title_howto">How to use this App</string>
+    <string name="pre_title_main_menu">Main Settings</string>
+    <string name="pre_title_opesett">Operation Setting</string>
+    <string name="pre_title_slidespeed">Slide show speed setting</string>
+    <string name="pre_title_spread">Spread View</string>
+    <string name="pre_title_tapchange">Which tap to next page?</string>
+    <string name="pre_value_ltor">Left to Right</string>
+    <string name="pre_value_rtol">Right to Left</string>
+    <string name="resume">ResumeLastBook</string>
+    <string name="searchHint">Input searching keyword</string>
+    <string name="setUp">SetUp</string>
+    <string name="upDir">UpDir</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="buttonBarStyle"/>
+        <attr format="reference" name="buttonBarButtonStyle"/>
+    </declare-styleable>
+</resources>

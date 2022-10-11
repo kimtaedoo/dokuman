@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DOKUMAN - Simple Comic Viewer</string>
+    <string name="resume">이전 파일 표지</string>
+    <string name="bookMarks">북마크</string>
+    <string name="fileSearch">파일 검색</string>
+    <string name="setUp">설정</string>
+    <string name="upDir">위의 폴더에</string>
+    <string name="close">취소</string>
+    <string name="delBookmark">모두 삭제</string>
+    <string name="searchHint">검색키워드를 입력하십시오.</string>
+    
+    <string name="msg_up_directory">위로</string>
+    <string name="msg_zip_file">Zip 파일</string>
+    <string name="msg_cbz_file">Cbz 파일</string>
+    <string name="msg_rar_file">RAR 파일</string>
+    <string name="msg_cbr_file">CBR 파일</string>
+    <string name="msg_directory">폴더</string>
+    <string name="msg_slide_start">슬라이드 쇼 시작!</string>
+    <string name="msg_slide_stop">슬라이드 쇼 종료!</string>
+    <string name="msg_put_off">자동 슬라이드 시작. \n 솔가락을 떼면 슬라이드가 끝닙니다!</string>
+    <string name="msg_change_file">파일을 이동 했습니다 : %s</string>
+    <string name="msg_no_resume">전회 파일정보가 없습니다.</string>
+    <string name="msg_open_resume">전회 파일을 로드했습니다.</string>
+    <string name="msg_del_allmark">모든 북마크를 삭제했습니다.</string>
+    <string name="msg_del_bookmark">북마크 삭제 : %s</string>
+    <string name="msg_search_file">키워드를 입력해서 완료 버턴을 누르십시오. \n 현재 폴드속에서 파일을 검색합니다.</string>
+    <string name="msg_do_bookmarking">이 페이지를 북아크 했습니다.</string>
+
+    <string name="intent_open_filename">FILE_NAME</string>
+    <string name="intent_open_dirname">DIR_NAME</string>
+    <string name="intent_file_lists">FILE_LISTS</string>
+    <string name="intent_file_position">FILE_POSITION</string>
+    <string name="intent_page_position">PAGE_POSITION</string>
+
+    <string name="err_msg_file_failed">파일의 로드에 실패했습니다.파일을 확인해주십시오.</string>
+    <string name="err_msg_root_dir">여기는 루트 디렉토리입니다.</string>
+    <string name="err_msg_not_image">파일속에 화상파일이 없습니다.</string>
+    <string name="err_msg_del_bookmark">북마크의 삭제가 실패했습니다.</string>
+    <string name="err_msg_no_resume">전회 파일정보가 없습니다.</string>
+
+    <string name="pre_title_defdir">홈 디렉터리</string>
+    <string name="pre_sub_defdir">여기를 탭하면 지금 열린 폴더를 홈 디렉터리로 설정합니다.</string>
+    <string name="pre_msg_defpath">홈 디렉터리를 변경했습니다 :</string>
+    <string name="pre_title_automark">자동 북마크의 사용</string>
+    <string name="pre_sub_automark">파일을 열고 닫을 때, 자동으로 북마크릴 이용합니다.</string>
+    <string name="pre_title_slidespeed">슬라이드 쇼의 속도</string>
+    <string name="pre_sub_slidespeed">슬라이드 쇼의 속도를 설정합니다.(밀리 초단이로 설정)</string>
+    <string name="pre_title_main_menu">기본 설정</string>
+    <string name="pre_sub_main_menu">애플전체의 설정을 합니다.</string>
+    <string name="pre_title_opesett">조작 설정</string>
+    <string name="pre_sub_opesett">탭이나 제스처등 조작에관한 설정을 합니다.</string>
+    <string name="pre_title_tapchange">어느 쪽을 탭하면 다음 페이지로 이동합니까?</string>
+    <string name="pre_text_right">오른 쪽</string>
+    <string name="pre_text_left">왼 쪽</string>
+    <string name="pre_sub_right">화면 오른 쪽을 탭하면 다음으로 이동합니다.</string>
+    <string name="pre_sub_left">화면 왼쪽을 탭하면 다음으로 이동합니다.</string>
+    <string name="pre_title_doubletap">슬라이드 쇼 기능을 사용</string>
+    <string name="pre_sub_doubletap">체크하면 화면 중앙을 더블 탭하면 슬라이드 쇼가 시작합니다.</string>
+    <string name="pre_title_howto">애플리케이션 사용법 설명</string>
+    <string name="pre_title_about">애플리케이션 정보</string>
+    <!-- 20130601 add -->
+    <string name="pre_title_spread">마주보기</string>
+    <string name="pre_sub_spread">가로화면으로 표시할때 2장의 화상을 좌우로 늘어놓아 표시합니다.</string>
+    <string name="pre_title_direction">마주보기 방향</string>
+    <string name="pre_sub_direction">마주보기 표시를 할때, 외쪽에서 오른쪽으로 표시?오른쪽에서 왼쪽으로 표시?</string>
+    <string name="pre_value_ltor">왼쪽에서 오른쪽으로</string>
+    <string name="pre_value_rtol">오른쪽에서 왼쪽으로</string>
+    <string name="pre_sub_ltor">처음 페이지를 왼쪽에, 다음 페이지를 오른쪽에 표시</string>
+    <string name="pre_sub_rtol">처음 페이지를 오른쪽에, 다음 페이지를 왼쪽에 표시</string>
+
+    <string name="pre_key_defpath">defaultPath</string>
+    <string name="pre_key_automark">autoBookmark</string>
+    <string name="pre_key_slidetime">slideTime</string>
+    <string name="pre_key_nextpage">nextPage</string>
+    <string name="pre_key_doubletap">enableDoubletap</string>
+    <string name="pre_key_resume">resumeBook</string>
+    <string name="pre_key_howto">howTo</string>
+    <string name="pre_key_about">about</string>
+    <!-- 20130601 add -->
+    <string name="pre_key_spread">spread</string>
+    <string name="pre_key_direction">direction</string>
+
+    <string name="dialog_tag_page">markedPage</string>
+    <string name="dialog_tag_dir">markedDir</string>
+    <string name="dialog_tag_file">markedFile</string>
+
+    <string name="dialog_title_filechange">파일 이동중…</string>
+    <string name="dialog_msg_filechange">잠간 기다려주십시오.</string>
+    
+    <!-- 20140528 add -->
+    <string name="dialog_bookmarks_sub">길게 누르면 북마크를 삭제할수 있습니다.</string>
+    <!-- 20140528 add -->
+</resources>

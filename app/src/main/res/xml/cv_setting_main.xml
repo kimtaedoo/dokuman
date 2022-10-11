@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:key="@string/pre_title_main_menu" android:title="@string/pre_title_main_menu">
+        
+        
+        
+        <PreferenceCategory>ComicPrefFragment
+            <Preference android:key="@string/pre_key_defpath" android:summary="@string/pre_sub_defdir" android:title="@string/pre_title_defdir" />
+            <CheckBoxPreference android:title="@string/pre_title_automark" android:summary="@string/pre_sub_automark" android:key="@string/pre_key_automark" android:defaultValue="true"/>
+            <CheckBoxPreference android:summary="@string/pre_sub_spread" android:key="@string/pre_key_spread" android:title="@string/pre_title_spread" android:defaultValue="true"/><SwitchPreference android:title="@string/pre_title_direction" android:dependency="@string/pre_key_spread" android:key="@string/pre_key_direction" android:defaultValue="true" android:switchTextOff="@string/pre_value_ltor" android:switchTextOn="@string/pre_value_rtol" android:summaryOn="@string/pre_sub_rtol" android:summaryOff="@string/pre_sub_ltor" android:summary="@string/pre_sub_direction"/><Preference android:title="@string/pre_title_howto" android:key="@string/pre_key_howto"/>
+            <Preference android:title="@string/pre_title_about" android:key="@string/pre_key_about"/>
+            
+            
+            
+            
+        
+</PreferenceCategory>
+        
+    </PreferenceScreen>

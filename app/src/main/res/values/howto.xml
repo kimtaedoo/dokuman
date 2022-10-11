@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="howtoText">
+&lt;h1 text-align="center"&gt;How to Use app \'DOKUMAN\' &lt;/h1&gt;
+
+&lt;h2 id="basic"&gt; basic operation &lt;/h2&gt;
+&lt;p&gt;A description is the basic operation of this app. &lt;/p&gt;
+&lt;p&gt;When you start the application like Explorer screen is displayed. &lt;br /&gt;
+That can list CBZ and ZIP files and folders (&lt;font color="#AEB404"&gt;other files will be ignored all &lt;/ font&gt;) so, please specify the files that you want to read. &lt;/p&gt;
+&lt;p&gt;When you open the file, the image will be displayed on the screen. &lt;br /&gt;
+Please try to &lt;font color="#ff6666"&gt;tap on the right(or the left) side&lt;/font&gt; of the screen. You can proceed with turning the page image will change.&lt;br /&gt;
+You can change to your preference settings, when you tap either side of the screen, turning the page next or back. &lt;br /&gt;
+&lt;font color="#ff6666"&gt;The screen near the center double-tap, please &lt;/ font&gt;. Page is turned over automatically by the slide show. If you want to exit the slide show, please tap once anywhere on the screen. &lt;br /&gt;
+Then, please &lt;font color="#ff6666"&gt;Flick toward the left (or right) from the center area and put on screen your finger(not leave the point)&lt;/ font&gt;. You can turn the page continuously at a fast speed. It stops automatically when you release your finger. &lt;br /&gt;
+Also, from version 2.0, it was supported &lt;font color="#ff6666"&gt;spread display and zoomed in / out&lt;/font&gt;. &lt;br /&gt;
+With that you put a check of menu &lt;font color="#ff6666"&gt;"Spread View"&lt;/ font&gt;, when you display the landscape while browsing the file, it becomes display automatically Spread View. Spread display, it means that in turning a normal page, two pages moved. When you want to move only one page, if you flick to from right to left (or left to right) with 2 fingers, you can move to the left page to on the right (or to the right page on the left). &lt;br /&gt;
+For zoom in / out, in the operation of &lt;font color="#ff6666"&gt; pinch in / pinch out&lt;/ font&gt;. The zoom in / out during the thing to slide 1 finger, you can move freely view point of the image. In addition, by the fact that the one-tap anywhere on the screen, you will be able to return to normal size. (You can not leave the zoom in / out, turn the page. For one tap when you turn the page, please move it from the back the scale) &lt;br /&gt;
+Finally, &lt;font color="#ff6666"&gt;in 2 fingers to up(or down) Flick, please &lt;/ font&gt;. You can move to the file of the next (or previous) in the same folder. As a result, without having to return to the file list all the way, you can move to (in most cases next or forward volume) file to continue with the next one. &lt;/p&gt;
+
+&lt;h2 id="menu"&gt;Menu Button&lt;/h2&gt;
+&lt;p&gt;A description of the Menu Button. &lt;/p&gt;
+&lt;p&gt;Menu button is a description of the four buttons that are displayed in the Explorer screen below. These buttons have become &lt;font color="#2ECCFA"&gt;\'Last file read\', \'Bookmark\', \'Search\', \'Settings\' buttons and &lt;/ font&gt; function from left to right. &lt;br /&gt;
+&lt;font color="#2ECCFA"&gt;\'Last file read\'&lt;/ font&gt; is, has stored automatically the information of the file it was read last time, just tap a button, you were reading last time. &lt;br /&gt;
+&lt;font color="#2ECCFA"&gt;\'Bookmarks\'&lt;/ font&gt; is, a list of bookmarks that are currently stored will be displayed in the dialog. You can open a given page of the file if you tap the bookmark you want to read from the list. In addition, by long tap(long press) to the list, you can delete the target bookmark. If you want to delete all bookmarks, please tap the button \'Delete all\' which is located at the bottom right. Upon deletion of bookmark, please take note does not such as to confirm the deletion. &lt;br /&gt;
+&lt;font color="#2ECCFA"&gt;\'Search\' &lt;/ font&gt; displays a list narrowed down from the file name by entering a keyword. It does not distinguish between upper / lower case.&lt;br /&gt;
+Last &lt;font color="#2ECCFA"&gt;\'Settings\'&lt;/ font&gt; in, you can be set for the various operations of the application. &lt;/p&gt;
+&lt;p&gt;The top of the explorer screen area displays &lt;font color="#AEB404"&gt; the path to the folder where open currently &lt;/ font&gt; on the left side, the top right corner there is a &lt;font color="#AEB404"&gt; button to move to upper level folder&lt;/ font&gt;. Button to move to the upper level folder, the top of the file list is displayed, but if the number of files are displayed in a single folder, the top of the list to go back all the way since it\'s cumbersome, Please use the button here. &lt;/p&gt;
+
+&lt;h2 id="setting"&gt; Settings &lt;/ h2&gt;
+&lt;p&gt;Then you will learn settings this app. &lt;/p&gt;
+&lt;p&gt;Setting item is &lt;font color="#2ECCFA"&gt;\'Main Settings\'&lt;/ font&gt; and &lt;font color="#2ECCFA"&gt;\'Operation Settings\'&lt;/ font&gt; can be divided. &lt;/p&gt;
+&lt;p&gt;&lt;font color="#2ECCFA"&gt;\'Main Settings\'&lt;/font&gt; in the, &lt;font color="#00FF00"&gt;\'Default directory path\', \'Use Auto Bookmarks\' \'How to use this App\'&lt;/font&gt; and &lt;font color="#00FF00"&gt;\'About this App\'&lt;/font&gt;. &lt;br /&gt;
+&lt;font color="#00FF00"&gt;\'Default directory path\' &lt;/ font&gt; is, by tapping an item,You can be set the default folder that is currently open in the Explorer screen. When you tap, If the folder you want to specify is different, please tap this item again to return to the Explorer screen once, open the folder given. &lt;br /&gt;
+&lt;font color="#00FF00"&gt;\'Use Auto Bookmarks\' &lt;/ font&gt; is that you put a check in the case, open(or close) the file automatically read (or write) the bookmark information Your bookmarks. If you are removing the check, the first page is displayed whenever you open a file. If you want to bookmark the page specified in the unchecked, when you open the image page, long tap, please press and hold the screen near the center. You can message is displayed and you can add a bookmark.&lt;br /&gt;
+By checked &lt;font color="#00FF00"&gt;\'Spread View\'&lt;/ font&gt; on , when you have a landscape screen display, you can take advantage of spread display. &lt;br /&gt;
+&lt;font color="#00FF00"&gt;\'Spread Direction\'&lt;/ font&gt;, when spread display, which specifies the right to left, or left to right direction lining the image. Default has become a "right-to-left", in the case of the Japanese comic, but if you are part reverse, please adjust the direction in this setting. &lt;br /&gt;
+&lt;font color="#00FF00"&gt;\'How to use this App\' &lt;/ font&gt; is this message. &lt;br /&gt;
+&lt;font color="#00FF00"&gt;\'About this App\'&lt;/font&gt; You can see the right-related conventions and producer of information app. &lt;/p&gt;
+&lt;p&gt;&lt;font color="#2ECCFA"&gt;\'Operation Settings\'&lt;/ font&gt;, You can set the items related to operations such as flick and tap. &lt;br /&gt;
+By switching the switch at the top, You can specify whether to &lt;font color="#00FF00"&gt; proceed to the next page when you tap the right-left either side&lt;/ font&gt; of screen. By tapping the other side of the displayed on the switch, you can return to the previous page. &lt;br /&gt;
+If you checked &lt;font color="#00FF00"&gt;\'Use double tap Slide show\'&lt;/ font&gt; to , the slide show will start when you double-tap the screen. If you clear it, you will not be able to use the slide show. However, you can use regardless of the check of this item by Flick turning continuous page. &lt;br /&gt;
+&lt;font color="#00FF00"&gt;\'Slide show speed setting\'&lt;/ font&gt; is , you can slide show function above to edit only when enabled. You can adjust the speed at which pages are switched in a slide show. Specified it will be milliseconds, page is switched every second if you enter \'1000\'. &lt;/p&gt;
+</string>
+</resources>

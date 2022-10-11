@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="kim.taedoo.ComicViewer"
+4    android:installLocation="auto"
+5    android:versionCode="14"
+6    android:versionName="3.1.1" >
+7
+8    <uses-sdk
+8-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:7:5-9:41
+9        android:minSdkVersion="14"
+9-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:8:9-35
+10        android:targetSdkVersion="18" />
+10-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:9:9-38
+11
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:10:5-79
+12-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:10:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:11:5-66
+13-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:11:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:12:5-78
+14-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:12:22-76
+15    <!--
+16    Amazon Ads START
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20	Amazon Ads END
+21    -->
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:18:2-77
+22-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:18:19-75
+23
+24    <application
+24-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:19:1-33:23
+25        android:allowBackup="true"
+25-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:19:172-198
+26        android:debuggable="true"
+27        android:icon="@drawable/ic_launcher"
+27-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:19:14-50
+28        android:label="@string/app_name"
+28-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:19:51-83
+29        android:largeHeap="true"
+29-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:19:147-171
+30        android:testOnly="true"
+31        android:theme="@android:style/Theme.DeviceDefault.NoActionBar" >
+31-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:19:84-146
+32        <activity
+32-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:20:9-26:20
+33            android:name="kim.taedoo.ComicViewer.ComicViewerActivity"
+33-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:20:19-76
+34            android:configChanges="orientation|keyboardHidden|screenSize"
+34-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:20:77-138
+35            android:label="@string/app_name" >
+35-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:20:139-171
+36            <intent-filter>
+36-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:21:13-25:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:22:17-69
+37-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:22:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:24:17-77
+39-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:27:9-200
+43            android:name="kim.taedoo.ComicViewer.ComicImageActivity"
+43-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:27:19-52
+44            android:configChanges="keyboardHidden|orientation|screenSize"
+44-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:27:53-114
+45            android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen" />
+45-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:27:115-188
+46        <activity android:name="kim.taedoo.ComicViewer.ComicPreferenceActivity" />
+46-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:28:9-69
+46-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:28:19-57
+47        <activity
+47-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:29:9-172
+48            android:name="com.google.ads.AdActivity"
+48-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:29:19-59
+49            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+49-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:29:60-169
+50        <!-- Amazon Ads START -->
+51        <activity
+51-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:31:9-130
+52            android:name="com.amazon.device.ads.AdActivity"
+52-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:31:19-66
+53            android:configChanges="keyboardHidden|orientation|screenSize" />
+53-->C:\AndroidStudioProject\MangaYomi\app\src\main\AndroidManifest.xml:31:67-128
+54        <!-- Amazon Ads END -->
+55    </application>
+56
+57</manifest>

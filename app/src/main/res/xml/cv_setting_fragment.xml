@@ -1,0 +1,12 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header android:fragment="kim.taedoo.ComicViewer.ComicMainPrefFragment"
+        android:title="@string/pre_title_main_menu"
+        android:summary="@string/pre_sub_main_menu" >
+        
+    </header>
+    <header android:fragment="kim.taedoo.ComicViewer.ComicOpePrefFragment"
+        android:title="@string/pre_title_opesett"
+        android:summary="@string/pre_sub_opesett" >
+        
+    </header>
+</preference-headers>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/pre_title_opesett">
+        
+        
+        
+        <PreferenceCategory>ComicPrefFragment<SwitchPreference android:title="@string/pre_title_tapchange" android:switchTextOff="@string/pre_text_left" android:summaryOn="@string/pre_sub_right" android:switchTextOn="@string/pre_text_right" android:summaryOff="@string/pre_sub_left" android:key="@string/pre_key_nextpage"/>
+        <CheckBoxPreference android:title="@string/pre_title_doubletap" android:summary="@string/pre_sub_doubletap" android:selectable="true" android:key="@string/pre_key_doubletap" android:defaultValue="true"/>
+        <EditTextPreference android:title="@string/pre_title_slidespeed" android:summary="@string/pre_sub_slidespeed" android:defaultValue="@integer/default_slide_time" android:key="@string/pre_key_slidetime" android:inputType="number" android:dependency="@string/pre_key_doubletap"/>
+
+</PreferenceCategory>
+        
+    </PreferenceScreen>

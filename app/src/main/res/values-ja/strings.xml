@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DOKUMAN - シンプルコミックビューワー</string>
+    <string name="resume">前回ファイルを読み込み</string>
+    <string name="bookMarks">ブックマーク</string>
+    <string name="fileSearch">ファイル検索</string>
+    <string name="setUp">設定</string>
+    <string name="upDir">上の階層へ</string>
+    <string name="close">閉じる</string>
+    <string name="delBookmark">すべて削除</string>
+    <string name="searchHint">検索キーワードを入力してください。</string>
+    
+    <string name="msg_up_directory">上位フォルダーへ移動</string>
+    <string name="msg_zip_file">Zipファイル</string>
+    <string name="msg_cbz_file">Cbzファイル</string>
+    <string name="msg_rar_file">RARファイル</string>
+    <string name="msg_cbr_file">CBRファイル</string>
+    <string name="msg_directory">フォルダー</string>
+    <string name="msg_slide_start">スライドショーを開始!</string>
+    <string name="msg_slide_stop">スライドショーを終了!</string>
+    <string name="msg_put_off">オートスライド開始。 \n 指を離すとスライドが止まります!</string>
+    <string name="msg_change_file">ファイルを変更しました : %s</string>
+    <string name="msg_no_resume">前回ファイルのデータがありません。</string>
+    <string name="msg_open_resume">前回ファイルを読み込みました。</string>
+    <string name="msg_del_allmark">全ブックマークの削除に成功しました。</string>
+    <string name="msg_del_bookmark">ブックマーク削除 : %s</string>
+    <string name="msg_search_file">キーワードを入力し、完了ボタンを押してください。 \n 現在のフォルダーからファイルを検索します。</string>
+    <string name="msg_do_bookmarking">このページをブックマークしました。</string>
+
+    <string name="intent_open_filename">FILE_NAME</string>
+    <string name="intent_open_dirname">DIR_NAME</string>
+    <string name="intent_file_lists">FILE_LISTS</string>
+    <string name="intent_file_position">FILE_POSITION</string>
+    <string name="intent_page_position">PAGE_POSITION</string>
+
+    <string name="err_msg_file_failed">ファイルの読み込みに失敗しました。ファイルを確認してください。</string>
+    <string name="err_msg_root_dir">現在、最上位階層です。</string>
+    <string name="err_msg_not_image">ファイル内に画像が入っていません。</string>
+    <string name="err_msg_del_bookmark">ブックマークの削除に失敗しました。</string>
+    <string name="err_msg_no_resume">前回読み込み情報がありません。</string>
+
+    <string name="pre_title_defdir">起動時のフォルダー</string>
+    <string name="pre_sub_defdir">この項目をタップすると、現在開いているフォルダを、起動時のフォルダーに設定します。</string>
+    <string name="pre_msg_defpath">起動時のフォルダーを次のフォルダーに変更しました :</string>
+    <string name="pre_title_automark">自動ブックマークの使用</string>
+    <string name="pre_sub_automark">ファイルを開いたり閉じたりする際、自動的にブックマークを使用します。</string>
+    <string name="pre_title_slidespeed">スライドショーのスピード</string>
+    <string name="pre_sub_slidespeed">スライドショーの間隔を指定します。（ミリ秒形式で指定）</string>
+    <string name="pre_title_main_menu">メイン設定</string>
+    <string name="pre_sub_main_menu">アプリ全体の設定をします。</string>
+    <string name="pre_title_opesett">操作設定</string>
+    <string name="pre_sub_opesett">タップやフリックなど、操作に関する設定をします。</string>
+    <string name="pre_title_tapchange">どちらをタップした時、次のページに進みますか？</string>
+    <string name="pre_text_right">右</string>
+    <string name="pre_text_left">左</string>
+    <string name="pre_sub_right">画面右側をタップすると次へ進みます。</string>
+    <string name="pre_sub_left">画面左側をタップすると次へ進みます。</string>
+    <string name="pre_title_doubletap">スライドショー機能を使う</string>
+    <string name="pre_sub_doubletap">チェックを入れると、画面中央をダブルタップすればスライドショー機能が使えます。</string>
+    <string name="pre_title_howto">アプリの使い方</string>
+    <string name="pre_title_about">このアプリについて</string>
+    <!-- 20130601 add -->
+    <string name="pre_title_spread">見開き表示</string>
+    <string name="pre_sub_spread">横画面表示の時、2枚画像を並べて、見開き表示をします。</string>
+    <string name="pre_title_direction">見開き方向</string>
+    <string name="pre_sub_direction">見開き表示時の画像を、右から左へ表示しますか？左から右へ表示しますか？</string>
+    <string name="pre_value_ltor">左から右</string>
+    <string name="pre_value_rtol">右から左</string>
+    <string name="pre_sub_ltor">始めのページを左側に、次のページを右側に表示</string>
+    <string name="pre_sub_rtol">始めのページを右側に、次のページを左側に表示</string>
+
+    <string name="pre_key_defpath">defaultPath</string>
+    <string name="pre_key_automark">autoBookmark</string>
+    <string name="pre_key_slidetime">slideTime</string>
+    <string name="pre_key_nextpage">nextPage</string>
+    <string name="pre_key_doubletap">enableDoubletap</string>
+    <string name="pre_key_resume">resumeBook</string>
+    <string name="pre_key_howto">howTo</string>
+    <string name="pre_key_about">about</string>
+    <!-- 20130601 add -->
+    <string name="pre_key_spread">spread</string>
+    <string name="pre_key_direction">direction</string>
+
+    <string name="dialog_tag_page">markedPage</string>
+    <string name="dialog_tag_dir">markedDir</string>
+    <string name="dialog_tag_file">markedFile</string>
+
+    <string name="dialog_title_filechange">読み込みファイル変更中…</string>
+    <string name="dialog_msg_filechange">しばらくお待ちください。</string>
+    
+    <!-- 20140528 add -->
+    <string name="dialog_bookmarks_sub">長押しすると、ブックマークを削除できます。</string>
+    <!-- 20140528 add -->
+</resources>

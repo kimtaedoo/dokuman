@@ -1,0 +1,112 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:Amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aaaaaa"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".ComicViewerActivity" >
+    <!--
+	<com.amazon.device.ads.AdLayout
+	    android:id="@+id/adLayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    Amazon:adSize="320x50" />
+	      -->
+
+    <LinearLayout
+        android:id="@+id/topMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black_overlay"
+        android:weightSum="3" >
+
+        <EditText
+            android:id="@+id/pwdDir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:ems="10"
+            android:focusable="false"
+            android:inputType="textUri" />
+
+        <ImageButton
+            android:id="@+id/upDir"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right|center_vertical"
+            android:layout_weight="1"
+            android:contentDescription="@string/upDir"
+            android:scaleType="fitCenter"
+            android:src="@drawable/up_folder_icon" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/fileList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbarStyle="outsideOverlay"
+        android:smoothScrollbar="true" >
+
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/bottomMenu"
+        style="?buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/black_overlay"
+        android:contentDescription="@string/setUp"
+        android:orientation="horizontal"
+        android:weightSum="4"
+        tools:ignore="UselessParent" >
+
+        <ImageButton
+            android:id="@+id/resume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/resume"
+            android:src="@android:drawable/ic_menu_set_as" />
+
+        <ImageButton
+            android:id="@+id/bookMark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/bookMarks"
+            android:src="@drawable/bookmark" />
+
+        <ImageButton
+            android:id="@+id/fileSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/fileSearch"
+            android:src="@android:drawable/ic_menu_search" />
+
+        <ImageButton
+            android:id="@+id/setUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/setUp"
+            android:src="@android:drawable/ic_menu_manage" />
+        
+        </LinearLayout>
+
+		<com.google.ads.AdView
+		    android:id="@+id/adView"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    ads:adSize="IAB_BANNER"
+		    ads:adUnitId="a15192571174fc7"
+		    android:gravity="center_horizontal|center" />
+		
+</LinearLayout>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aboutText">
+&lt;p>このたびは「DOKUMAN - シンプルコミックビューワー」をご利用いただきありがとうございます。&lt;br />
+本アプリの無断転載・改変を禁じます。&lt;br />
+また、本アプリの使用により利用者がいかなる損害を受けようとも、製作者はその責任を負いません。&lt;/p>
+&lt;p>Copyright &lt;b>KimTaeDoo&lt;/b> Since 2013&lt;/p>
+&lt;p>
+G-mail : &lt;a href="mailto:kimtaedoo.develop@gmail.com"> kimtaedoo.develop@gmail.com &lt;/a>&lt;br />
+Twitter : &lt;a href="https://twitter.com/taedookim"> @taedookim &lt;/a>&lt;br />
+Facebook : &lt;a href="https://www.facebook.com/yasutokim"> yasutokim &lt;/a>&lt;br />
+&lt;/p>
+</string>
+    <string name="app_name">DOKUMAN - シンプルコミックビューワー</string>
+    <string name="bookMarks">ブックマーク</string>
+    <string name="close">閉じる</string>
+    <string name="delBookmark">すべて削除</string>
+    <string name="dialog_bookmarks_sub">長押しすると、ブックマークを削除できます。</string>
+    <string name="dialog_msg_filechange">しばらくお待ちください。</string>
+    <string name="dialog_tag_dir">markedDir</string>
+    <string name="dialog_tag_file">markedFile</string>
+    <string name="dialog_tag_page">markedPage</string>
+    <string name="dialog_title_filechange">読み込みファイル変更中…</string>
+    <string name="err_msg_del_bookmark">ブックマークの削除に失敗しました。</string>
+    <string name="err_msg_file_failed">ファイルの読み込みに失敗しました。ファイルを確認してください。</string>
+    <string name="err_msg_no_resume">前回読み込み情報がありません。</string>
+    <string name="err_msg_not_image">ファイル内に画像が入っていません。</string>
+    <string name="err_msg_root_dir">現在、最上位階層です。</string>
+    <string name="fileSearch">ファイル検索</string>
+    <string name="howtoText">
+&lt;h1 text-align="center">アプリ「DOKUMAN」の使い方&lt;/h1>
+
+&lt;h2 id="basic">基本操作&lt;/h2>
+&lt;p>まずはアプリの基本操作です。&lt;/p>
+&lt;p>アプリを起動するとまずはエクスプローラ風の画面が表示されます。&lt;br />
+フォルダとZIPおよびCBZファイルが一覧できます（&lt;font color="#AEB404">その他のファイルは全て無視されます&lt;/font>）ので、自分が読みたいファイルを指定してください。&lt;/p>
+&lt;p>ファイルを開くと、画面に画像が表示されます。&lt;br />
+まずは&lt;font color="#ff6666">画面の左側(または右側)をタップ&lt;/font>してみてください。画像が切り替わりページをめくり進めることができます。&lt;br />
+画面のどちら側をタップすると前後どちらにページをめくり進めるかは、設定でお好みに変更することが出来ます。&lt;br />
+次に&lt;font color="#ff6666">画面中央付近をダブルタップ&lt;/font>してください。スライドショーにより自動的にページがめくられます。スライドショーを終了するには、画面のどこかを１度タップしてください。&lt;br />
+続いて、&lt;font color="#ff6666">画面中央辺りから左（または右）に向かってフリックし指を画面にポイントしたまま&lt;/font>にしてください。速いスピードで連続的にページをめくることができます。指を離せば自動的にとまります。&lt;br />
+また、バージョン2.0より、&lt;font color="#ff6666">見開き表示と拡大／縮小表示&lt;/font>に対応しました。&lt;br />
+メニューの&lt;font color="#ff6666">「見開き表示」&lt;/font>にチェックを入れておくことで、ファイルを閲覧中に端末画面を横表示にすると、自動的に見開き表示となります。表示する画像の縦・横のサイズを判定し、横長画像の場合は見開きにしないようになっていますので、横長で収録されてるファイルを見るたびに設定を切り替えるような手間は不要です。見開き表示時は、通常のページめくりで、2ページ分ページが移動することになります。1ページだけ移動させたい際には、2本指で右から左（左から右）へフリックすれば、右側のページを左側へ（左側のページを右側へ）動かすことが出来ます。&lt;br />
+拡大／縮小については、一般的な&lt;font color="#ff6666">ピンチイン／ピンチアウト&lt;/font>の操作で、閲覧中の画像を操作できます。拡大／縮小中は、1本の指でスライドすることで、画像の表示ポイントを自由に動かすことが出来ます。また、画面のどこかを1タップすることで、標準サイズに戻ることが出来ます。（拡大／縮小中のまま、ページをめくることはできません。ページをめくる際には1タップし、縮尺を戻してから移動してください）&lt;br />
+最後に、&lt;font color="#ff6666">2本指で画面を上（または下）にフリック&lt;/font>してください。同じフォルダ内の次（または前）のファイルに移動することができます。これにより、わざわざファイル一覧に戻ることなく、続けて次のファイル（ほとんどの場合は前後の巻）に移動することができます。&lt;/p>
+
+&lt;h2 id="menu">メニューボタン&lt;/h2>
+&lt;p>次にメニューボタンの説明です。&lt;/p>
+&lt;p>メニューボタンはエクスプローラ画面下に表示されている4つのボタンの説明です。これらのボタンは左から順に&lt;font color="#2ECCFA">「前回ファイル読み込み」「ブックマーク」「検索」「設定」&lt;/font>機能のボタンとなっています。&lt;br />
+&lt;font color="#2ECCFA">「前回ファイル読み込み」&lt;/font>は、前回読んでいたファイルの情報を自動的に記憶しており、ボタンをタップするだけで、前回ファイルの、前回読んでいたページを開いてくれます。&lt;br />
+&lt;font color="#2ECCFA">「ブックマーク」&lt;/font>は、現在保存されているブックマークの一覧がダイアログ形式で表示されます。一覧の中から読みたいブックマークをタップすればそのファイルの所定のページを開くことができます。また、一覧をロングタップ（長押し）することで、対象ブックマークを削除することができます。すべてのブックマークを削除したい場合には、下段右側に表示されている「すべて削除」ボタンをタップしてください。ブックマークの削除に当たっては、削除の確認などは行いませんので十分ご注意ください。&lt;br />
+&lt;font color="#2ECCFA">「検索」&lt;/font>は、キーワードを入力することでファイル名から絞り込んだリストを表示します。全角／半角は区別されますが、半角英数字の大文字／小文字は区別しません。多数の漫画を1つのフォルダに保存している場合、目的の漫画を検索するのに便利に使えるかと思います。&lt;br />
+最後の&lt;font color="#2ECCFA">「設定」&lt;/font>では、アプリの各種操作について設定することができます。&lt;/p>
+&lt;p>また、エクスプローラ画面上部には左側に&lt;font color="#AEB404">現在開いているフォルダのパスを表示するエリア&lt;/font>、右上には&lt;font color="#AEB404">上位フォルダへ移動するボタン&lt;/font>があります。ファイル一覧の一番上の項目にも上位へ移動するボタンは表示されていますが、1つのフォルダ内に多数のファイルが表示されている場合、わざわざリストの最上部まで戻るのは面倒ですので、こちらのボタンをお使いください。&lt;/p>
+
+&lt;h2 id="setting">設定&lt;/h2>
+&lt;p>続いて、アプリの設定項目について説明します。&lt;/p>
+&lt;p>まず、設定項目は大きく&lt;font color="#2ECCFA">「メイン設定」&lt;/font>と&lt;font color="#2ECCFA">「操作設定」&lt;/font>に分けられます。&lt;/p>
+&lt;p>&lt;font color="#2ECCFA">「メイン設定」&lt;/font>では、&lt;font color="#00FF00">「起動時のフォルダ」「自動ブックマークの使用」「アプリの使い方」「このアプリについて」&lt;/font>が確認出来ます。&lt;br />
+&lt;font color="#00FF00">「起動時のフォルダ」&lt;/font>は、項目をタップすることで、エクスプローラ画面で現在開いているフォルダを、起動時に最初に表示するデフォルトフォルダに設定することができます。タップをすると、設定したフォルダのパスが表示されますので、指定したいフォルダが異なる場合は、一度エクスプローラ画面に戻り、所定のフォルダを開いてから再度この項目をタップしてください。&lt;br />
+&lt;font color="#00FF00">「自動ブックマークの使用」&lt;/font>は、チェックを入れておくことでファイルを開く（閉じる）際に、自動的にブックマーク情報を読み込み（書き込み）ます。チェックをはずしている場合には、ブックマークを使わずにファイルを開いたときには必ず最初のページが表示されます。チェックをはずした状態で指定のページをブックマークしたい場合には、画像ページを開いているときに、画面中央付近をロングタップ（長押し）してください。メッセージが表示され、ブックマークを追加することができます。&lt;br />
+&lt;font color="#00FF00">「見開き表示」&lt;/font>にチェックを入れる事で、端末を横画面表示にした際、見開き表示を利用することが出来ます。&lt;br />
+&lt;font color="#00FF00">「見開き方向」&lt;/font>は、見開き表示の際、画像を並べる方向が右から左か、左から右かを指定します。デフォルトは「右から左」となっており、日本の漫画の場合、通常このままで変更する必要はありませんが、一部逆になっている場合、この設定で方向を調整してください。&lt;br />
+&lt;font color="#00FF00">「アプリの使い方」&lt;/font>はこのメッセージです。&lt;br />
+&lt;font color="#00FF00">「このアプリについて」&lt;/font>はアプリの製作者情報および権利関連表記を確認することができます。&lt;/p>
+&lt;p>続いて&lt;font color="#2ECCFA">「操作設定」&lt;/font>ではタップやフリックといった操作に関する項目を設定できます。&lt;br />
+一番上のスイッチを切り替えることで、&lt;font color="#00FF00">画面の右・左どちら側をタップした場合に次のページへと進むかを指定&lt;/font>できます。スイッチ上に表示されているのとは逆側をタップすることで、前のページに戻ることができます。&lt;br />
+&lt;font color="#00FF00">「スライドショー機能を使う」&lt;/font>にチェックを入れておくと、画面をダブルタップをした際にスライドショーが始まります。チェックをはずした場合、スライドショーは使えなくなります。ただし、フリックによる連続ページめくりはこの項目のチェックにかかわらず利用することができます。&lt;br />
+&lt;font color="#00FF00">「スライドショーのスピード」&lt;/font>は、上のスライドショー機能が有効の時だけ編集することができます。この項目でスライドショーでページが切り替わるスピードを調整することができます。指定はミリ秒単位となりますので、「1000」と入力すると1秒ごとにページが切り替わります。&lt;/p>
+	</string>
+    <string name="intent_file_lists">FILE_LISTS</string>
+    <string name="intent_file_position">FILE_POSITION</string>
+    <string name="intent_open_dirname">DIR_NAME</string>
+    <string name="intent_open_filename">FILE_NAME</string>
+    <string name="intent_page_position">PAGE_POSITION</string>
+    <string name="msg_cbr_file">CBRファイル</string>
+    <string name="msg_cbz_file">Cbzファイル</string>
+    <string name="msg_change_file">ファイルを変更しました : %s</string>
+    <string name="msg_del_allmark">全ブックマークの削除に成功しました。</string>
+    <string name="msg_del_bookmark">ブックマーク削除 : %s</string>
+    <string name="msg_directory">フォルダー</string>
+    <string name="msg_do_bookmarking">このページをブックマークしました。</string>
+    <string name="msg_no_resume">前回ファイルのデータがありません。</string>
+    <string name="msg_open_resume">前回ファイルを読み込みました。</string>
+    <string name="msg_put_off">オートスライド開始。 \n 指を離すとスライドが止まります!</string>
+    <string name="msg_rar_file">RARファイル</string>
+    <string name="msg_search_file">キーワードを入力し、完了ボタンを押してください。 \n 現在のフォルダーからファイルを検索します。</string>
+    <string name="msg_slide_start">スライドショーを開始!</string>
+    <string name="msg_slide_stop">スライドショーを終了!</string>
+    <string name="msg_up_directory">上位フォルダーへ移動</string>
+    <string name="msg_zip_file">Zipファイル</string>
+    <string name="pre_key_about">about</string>
+    <string name="pre_key_automark">autoBookmark</string>
+    <string name="pre_key_defpath">defaultPath</string>
+    <string name="pre_key_direction">direction</string>
+    <string name="pre_key_doubletap">enableDoubletap</string>
+    <string name="pre_key_howto">howTo</string>
+    <string name="pre_key_nextpage">nextPage</string>
+    <string name="pre_key_resume">resumeBook</string>
+    <string name="pre_key_slidetime">slideTime</string>
+    <string name="pre_key_spread">spread</string>
+    <string name="pre_msg_defpath">起動時のフォルダーを次のフォルダーに変更しました :</string>
+    <string name="pre_sub_automark">ファイルを開いたり閉じたりする際、自動的にブックマークを使用します。</string>
+    <string name="pre_sub_defdir">この項目をタップすると、現在開いているフォルダを、起動時のフォルダーに設定します。</string>
+    <string name="pre_sub_direction">見開き表示時の画像を、右から左へ表示しますか？左から右へ表示しますか？</string>
+    <string name="pre_sub_doubletap">チェックを入れると、画面中央をダブルタップすればスライドショー機能が使えます。</string>
+    <string name="pre_sub_left">画面左側をタップすると次へ進みます。</string>
+    <string name="pre_sub_ltor">始めのページを左側に、次のページを右側に表示</string>
+    <string name="pre_sub_main_menu">アプリ全体の設定をします。</string>
+    <string name="pre_sub_opesett">タップやフリックなど、操作に関する設定をします。</string>
+    <string name="pre_sub_right">画面右側をタップすると次へ進みます。</string>
+    <string name="pre_sub_rtol">始めのページを右側に、次のページを左側に表示</string>
+    <string name="pre_sub_slidespeed">スライドショーの間隔を指定します。（ミリ秒形式で指定）</string>
+    <string name="pre_sub_spread">横画面表示の時、2枚画像を並べて、見開き表示をします。</string>
+    <string name="pre_text_left">左</string>
+    <string name="pre_text_right">右</string>
+    <string name="pre_title_about">このアプリについて</string>
+    <string name="pre_title_automark">自動ブックマークの使用</string>
+    <string name="pre_title_defdir">起動時のフォルダー</string>
+    <string name="pre_title_direction">見開き方向</string>
+    <string name="pre_title_doubletap">スライドショー機能を使う</string>
+    <string name="pre_title_howto">アプリの使い方</string>
+    <string name="pre_title_main_menu">メイン設定</string>
+    <string name="pre_title_opesett">操作設定</string>
+    <string name="pre_title_slidespeed">スライドショーのスピード</string>
+    <string name="pre_title_spread">見開き表示</string>
+    <string name="pre_title_tapchange">どちらをタップした時、次のページに進みますか？</string>
+    <string name="pre_value_ltor">左から右</string>
+    <string name="pre_value_rtol">右から左</string>
+    <string name="resume">前回ファイルを読み込み</string>
+    <string name="searchHint">検索キーワードを入力してください。</string>
+    <string name="setUp">設定</string>
+    <string name="upDir">上の階層へ</string>
+</resources>
